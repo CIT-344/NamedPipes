@@ -1,0 +1,11 @@
+D:\Source\CIT 344\NamedPipes\bin\Debug\netcoreapp2.1\NamedPipes.deps.json
+D:\Source\CIT 344\NamedPipes\bin\Debug\netcoreapp2.1\NamedPipes.runtimeconfig.json
+D:\Source\CIT 344\NamedPipes\bin\Debug\netcoreapp2.1\NamedPipes.runtimeconfig.dev.json
+D:\Source\CIT 344\NamedPipes\bin\Debug\netcoreapp2.1\NamedPipes.dll
+D:\Source\CIT 344\NamedPipes\bin\Debug\netcoreapp2.1\NamedPipes.pdb
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.csprojAssemblyReference.cache
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.csproj.CoreCompileInputs.cache
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.AssemblyInfoInputs.cache
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.AssemblyInfo.cs
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.dll
+D:\Source\CIT 344\NamedPipes\obj\Debug\netcoreapp2.1\NamedPipes.pdb
